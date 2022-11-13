@@ -37,6 +37,6 @@
   },
   "homepage": "https://github.com/itsomar/personal_website#readme",
   "devDependencies": {
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^3.3.12"
   }
 }
